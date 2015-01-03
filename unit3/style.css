@@ -5,13 +5,14 @@ body {
 
 h1 {
 	color: white; 
-	text-align: center;
+	text-align: left;
+	text-indent: 50px;
 }
 
 p { 
-	text-align: center;
+	text-align: left;
 	font-family: Calibri;
-	font-color: white;
+	color: white;
 	font-size: 14px;
 	
 }
