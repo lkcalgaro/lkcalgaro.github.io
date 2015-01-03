@@ -1,16 +1,19 @@
+
 body {
-	background: url("assets/background.jpg");
+	background-image: url("assets/background.jpg");
 }
 
+h1 {
+	color: white; 
+	text-align: center;
+}
 
-p {
+p { 
+	text-align: center;
 	font-family: Calibri;
 	font-color: white;
 	font-size: 14px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 7px;
+	
 }
 
 
