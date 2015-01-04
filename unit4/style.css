@@ -1,0 +1,28 @@
+body{
+	background: url("assets/bigt.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+h1{
+	font-family: 'Indie Flower', cursive;
+	color: #E8A317;
+	font-size: 75px;
+	text-align: center;
+	text-transform: uppercase;
+	margin: auto;
+	margin-top: 250px;
+}
+
+
+p{
+	font-family: 'Indie Flower', cursive;
+	color: #E8A317;
+	font-size: 35px;
+    text-align: center;
+	font-weight: bold;
+	margin: auto;
+	margin-top: 5px;
+	
+}
