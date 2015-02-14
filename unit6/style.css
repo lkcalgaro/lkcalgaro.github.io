@@ -86,6 +86,7 @@ section {
 }
 
 footer {
+	font-family: 'Petit Formal Script', cursive;
 	text-align: center;
 	border-top: 1px solid black;
 	padding: 20px 0;
